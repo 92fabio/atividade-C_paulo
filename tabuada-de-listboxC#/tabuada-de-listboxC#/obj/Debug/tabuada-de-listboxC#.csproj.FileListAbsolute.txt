@@ -1,0 +1,10 @@
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\bin\Debug\tabuada-de-listboxC#.exe.config
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\bin\Debug\tabuada-de-listboxC#.exe
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\bin\Debug\tabuada-de-listboxC#.pdb
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\obj\Debug\tabuada-de-listboxC#.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\obj\Debug\tabuada_de_listboxC_.Form1.resources
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\obj\Debug\tabuada_de_listboxC_.Properties.Resources.resources
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\obj\Debug\tabuada-de-listboxC#.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\obj\Debug\tabuada-de-listboxC#.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\obj\Debug\tabuada-de-listboxC#.exe
+C:\Users\fabio\source\repos\tabuada-de-listboxC#\tabuada-de-listboxC#\obj\Debug\tabuada-de-listboxC#.pdb
