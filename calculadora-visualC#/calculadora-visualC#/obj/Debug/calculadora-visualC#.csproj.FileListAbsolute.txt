@@ -1,0 +1,10 @@
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\bin\Debug\calculadora-visualC#.exe.config
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\bin\Debug\calculadora-visualC#.exe
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\bin\Debug\calculadora-visualC#.pdb
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\obj\Debug\calculadora-visualC#.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\obj\Debug\calculadora_visualC_.Form1.resources
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\obj\Debug\calculadora_visualC_.Properties.Resources.resources
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\obj\Debug\calculadora-visualC#.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\obj\Debug\calculadora-visualC#.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\obj\Debug\calculadora-visualC#.exe
+C:\Users\fabio\source\repos\calculadora-visualC#\calculadora-visualC#\obj\Debug\calculadora-visualC#.pdb
