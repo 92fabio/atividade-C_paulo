@@ -1,0 +1,10 @@
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\bin\Debug\Verificador-Maior-idadeC#.exe.config
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\bin\Debug\Verificador-Maior-idadeC#.exe
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\bin\Debug\Verificador-Maior-idadeC#.pdb
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\obj\Debug\Verificador-Maior-idadeC#.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\obj\Debug\Verificador_Maior_idadeC_.Form1.resources
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\obj\Debug\Verificador_Maior_idadeC_.Properties.Resources.resources
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\obj\Debug\Verificador-Maior-idadeC#.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\obj\Debug\Verificador-Maior-idadeC#.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\obj\Debug\Verificador-Maior-idadeC#.exe
+C:\Users\fabio\source\repos\Verificador-Maior-idadeC#\Verificador-Maior-idadeC#\obj\Debug\Verificador-Maior-idadeC#.pdb
